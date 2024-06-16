@@ -1,1 +1,1 @@
-### This folder contains the TestCaes on which PathFinder.cpp is evaluated.
+### This folder contains the TestCases on which PathFinder.cpp is evaluated.
