@@ -9,8 +9,8 @@ The Yellow Line runs from Samaypur Badli in the north to HUDA City Centre in the
 3. Blue Line
 The Blue Line is divided into two branches:
 
-Main Line: Runs from Dwarka Sector 21 in the west to Noida Electronic City in the east.
-Branch Line: Extends from Yamuna Bank to Vaishali. Key stations include Rajiv Chowk, Yamuna Bank, and Noida City Centre.
+ * Main Line: Runs from Dwarka Sector 21 in the west to Noida Electronic City in the east.
+ * Branch Line: Extends from Yamuna Bank to Vaishali. Key stations include Rajiv Chowk, Yamuna Bank, and Noida City Centre.
 4. Green Line
 The Green Line runs from Inderlok/Kirti Nagar to Brigadier Hoshiar Singh. It passes through key areas like Mundka, Ashok Park Main, and Punjabi Bagh.
 
